@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvrocess",
+        "uuid": 2055744,
+        "checksum": "aukhar"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
